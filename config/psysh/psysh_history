@@ -1,0 +1,6 @@
+_HiStOrY_V2_
+csrf_token()
+csrf_token()
+app('session')
+app('session')->token()
+exit

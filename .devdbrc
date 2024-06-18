@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/adon/experiment/pdf-generator/database/database.sqlite"
+  }
+]
